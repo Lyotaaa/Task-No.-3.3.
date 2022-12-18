@@ -1,4 +1,6 @@
-# ![Логотип NeuroStartUp](img/NeuroStartUpIcon.png) NeuroStartUp
+# Задача №3: Слияние веток
+
+## ![Логотип NeuroStartUp](img/NeuroStartUpIcon.png) NeuroStartUp
 
 **Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!
 
